@@ -6,7 +6,7 @@
 /*   By: rlossy <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2017/11/30 13:45:35 by rlossy       #+#   ##    ##    #+#       */
-/*   Updated: 2018/03/12 17:09:28 by rlossy      ###    #+. /#+    ###.fr     */
+/*   Updated: 2018/05/22 15:16:09 by rlossy      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -107,7 +107,7 @@ int			get_next_line(int const fd, char **line)
 
 	tmp = ft_strnew(BUFF_SIZE);
 	if (!line || BUFF_SIZE <= 0 || fd < 0 || (ret = read(fd, tmp, 0)) < 0)
-		return (-1);
+		return(-ft_normalize(&tmp, 2, &buf[fd]));
 	while ((ret = read(fd, tmp, BUFF_SIZE)) > 0)
 	{
 		res = ft_check(&buf[fd], &tmp, line);
