@@ -80,4 +80,4 @@
 ![img](https://i.imgur.com/bOAG2ZU.png)
 
 ### Last but not least
-![](https://media.giphy.com/media/Ylw9WWeBs7w8QSf4to/giphy.gif)
+![Alt text](https://media.giphy.com/media/Ylw9WWeBs7w8QSf4to/giphy.gif)
