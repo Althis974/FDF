@@ -90,7 +90,6 @@ make
 ![img](https://i.imgur.com/TpdY0Uy.png)
 
 ### Pale
-
 ![img](https://i.imgur.com/bOAG2ZU.png)
 
 ### Last but not least
