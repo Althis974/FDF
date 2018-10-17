@@ -81,6 +81,8 @@ make
    </tr>
 </table>
 
+## Exemples
+
 ### Mandelbrot
 ![img](https://i.imgur.com/VhlA5yD.png)
 
