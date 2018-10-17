@@ -71,3 +71,10 @@
 
 ### Mandelbrot
 ![img](https://i.imgur.com/VhlA5yD.png)
+
+### Pyramide
+![img](https://i.imgur.com/TpdY0Uy.png)
+
+### Pale
+
+![img](https://i.imgur.com/Ixj0ucw.png)
