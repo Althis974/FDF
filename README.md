@@ -77,4 +77,7 @@
 
 ### Pale
 
-![img](https://i.imgur.com/Ixj0ucw.png)
+![img](https://i.imgur.com/bOAG2ZU.png)
+
+### Last but not least
+![](https://streamable.com/9rbo7)
