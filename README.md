@@ -80,4 +80,4 @@
 ![img](https://i.imgur.com/bOAG2ZU.png)
 
 ### Last but not least
-![Alt text for your video](https://streamable.com/9rbo7)
+![](https://streamable.com/9rbo7)
