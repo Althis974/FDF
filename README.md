@@ -12,6 +12,18 @@
   
   Vous découvrirez également votre première bibliothèque graphique : La miniLibX. Cette bibliothèque développée en interne rassemble le minimum nécéssaire pour ouvrir une fenêtre, allumer un pixel et gérer les évènements lié à cette fenêtre : le clavier et la souris. Ce sera pour vous l’occasion de vous initier à la programmation dite “evenementielle”. N’oubliez pas de regarder les vidéos sur l’e-learning !
 
+## How to
+
+```
+make
+```
+
+```
+./fdf test_maps/map_name.fdf
+```
+
+## Fonctionnalités
+
  <table>
    <tr>
        <td>F1</td>
