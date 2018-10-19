@@ -33,49 +33,47 @@ make
        <td>F2</td>
        <td>Activer dégrade en fonction de l'altitude</td>
    </tr>
-     <tr>
+   <tr>
        <td>F3</td>
        <td>Réinitialiser les couleurs</td>
    </tr>
-     <tr>
+   <tr>
        <td>F5</td>
        <td>Rafraichir</td>
    </tr>
-     <tr>
+   <tr>
        <td>+ / -</td>
        <td>Varier l'altitude</td>
    </tr>
-     <tr>
+   <tr>
        <td>R / G / B</td>
        <td>Changer la nuance de couleur dominante</td>
    </tr>
-     <tr>
+   <tr>
        <td>UP / W</td>
        <td>Déplacer la projection vers le haut</td>
    </tr>
-       <tr>
+   <tr>
        <td>DOWN / S</td>
        <td>Déplacer la projection vers le bas</td>
    </tr>
-       <tr>
+   <tr>
        <td>LEFT / A</td>
        <td>Déplacer la projection vers la gauche</td>
    </tr>
-       <tr>
+   <tr>
        <td>RIGHT / D</td>
        <td>Déplacer la projection vers la droite</td>
    </tr>
-       <tr>
+   <tr>
        <td>I</td>
        <td>Zoom in</td>
    </tr>
-     </tr>
-       <tr>
+   <tr>
        <td>O</td>
        <td>Zoom out</td>
    </tr>
-        </tr>
-       <tr>
+   <tr>
        <td>ESC</td>
        <td>Quitter le programme</td>
    </tr>
